@@ -1,4 +1,12 @@
-## Hi there 👋
+# 🪼 Juli Pacheco
+
+**`Desenvolvedora FullStack`**
+
+Me chamo Juliana Pacheco e meu objetivo é criar soluções tecnológicas escaláveis e inovadoras que gerem impacto real e positivo na vida das pessoas.
+
+Atualmente, estou cursando Relações Internacionais na Universidade Federal de Santa Catarina (UFSC), enquanto trabalho como estagiária no Laboratório de Tecnologias de Informação e Comunicação (LabTIC) da Universidade do Estado de Santa Catarina (UDESC) como desenvolvedora. Minha experiência em [projetos sociais](https://www.linkedin.com/in/julianapachecoo/), incluindo a criação e fundação do Projeto Social Pré-Einstein, me fez desenvolver diversas habilidades, incluindo, mas não se limitando a: gestão, liderança, estratégia e comunicação. Essas competências, unidas à minha curiosidade, me levaram a uma vivência na intersecção de áreas que me permitiu ir muito além dos horizontes tradicionais da minha formação, encontrando assim na tecnologia o espaço de inovação e resolução que eu acredito no mundo. Por essas razões busco constantemente me desenvolver e alcançar excelência, de modo a conquistar através da tecnologia o que comecei buscando nas Relações Internacionais: a capacidade de não apenas entender problemas, mas construir soluções.
+
+
 
 <!--
 **ppachecoo/ppachecoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
